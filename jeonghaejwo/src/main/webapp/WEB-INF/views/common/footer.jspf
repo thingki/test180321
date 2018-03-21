@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!-- 하단 -->
+	<div class='footer'>
+		<div class="footer_container">
+			<div class="row">
+				<div class="col-md-3 col-sm-6 col-xs-12">
+				<img src='${root}/resources/imgs/logo.jpg' class='logo'/>
+				</div>
+
+				<div class="col-md-9 col-sm-6 col-xs-12">
+					<ul class="footer_menu">
+						<span>Menu</span>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Blog</a></li>
+						<li><a href="#">Gallery </a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
